@@ -1,0 +1,16 @@
+device: user-PC 
+description:  Hardware: Intel64 Family 6 Model 167 Stepping 1 AT/AT COMPATIBLE - Software: Windows Version 6.3 (Build 19044 Multiprocessor Free) 
+date: 03-04-2022 11:18 
+defaultProtocol: radius 
+
+rdate: 03-04-2022 11:28 
+#NAS-IP-Address 
+192.168.0.2 
+#NAS-Port 
+161 
+#User-Name 
+jose.angel.hdz.rda@gmail.com 
+#Acct-Input-Octets 
+90.53674612638851 
+#Acct-Output-Octets 
+45.22670639652758 
